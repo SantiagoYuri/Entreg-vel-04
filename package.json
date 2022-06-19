@@ -1,0 +1,23 @@
+{
+  "name": "primeiroprojetogit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jferraz/primeiroProjetoGit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jferraz/primeiroProjetoGit/issues"
+  },
+  "homepage": "https://github.com/jferraz/primeiroProjetoGit#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
